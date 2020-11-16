@@ -9,7 +9,7 @@ body{
 	position: relative;
 	animation-name: genericanimation;
 	animation-fill-mode: forwards;
-	/* animation-duration: 4s; */
+	animation-duration: 4s;
 	/* animation-iteration-count: infinite; */
 	animation-delay: 2s;
 	/* animation-direction: alternate; */
